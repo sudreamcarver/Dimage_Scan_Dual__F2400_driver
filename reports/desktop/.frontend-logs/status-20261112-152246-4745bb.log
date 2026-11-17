@@ -1,0 +1,16 @@
+SCANNER DEVICE: /dev/sg3 (Minolta #2882 1.10)
+IDENTITY CDB: 12 00 00 00 24 00
+status=00 host=0000 driver=0000 residual=0 duration_ms=1
+sense:
+data_length=36
+0000: 06 00 02 02 1f 00 00 01 4d 69 6e 6f 6c 74 61 20
+0010: 23 32 38 38 32 20 20 20 20 20 20 20 20 20 20 20
+0020: 31 2e 31 30
+FRAME WAIT READY CDB: 00 00 00 00 00 00
+status=00 host=0000 driver=0000 residual=0 duration_ms=1
+sense:
+STATUS CDB: 1a 10 20 00 08 00
+status=00 host=0000 driver=0000 residual=0 duration_ms=0
+sense:
+data_length=8
+0000: 03 00 06 00 20 02 00 00

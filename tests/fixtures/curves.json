@@ -1,0 +1,814 @@
+[
+  {
+    "film": 0,
+    "scale": 100,
+    "dark": 0,
+    "level": 256,
+    "sha256": "0d170074836a91686255f204c6c7dde241859b88f07215651b80baf802f23c6f"
+  },
+  {
+    "film": 0,
+    "scale": 50,
+    "dark": 0,
+    "level": 256,
+    "sha256": "361cb5b089b3275df9214c251f3153e454c99e57220dd0803afcb9f65b91c28b"
+  },
+  {
+    "film": 0,
+    "scale": 200,
+    "dark": 0,
+    "level": 256,
+    "sha256": "45145a943cc3df8c62446f51f637f6449569fe82a56f152a3d43b8dabf06c0d5"
+  },
+  {
+    "film": 0,
+    "scale": 1,
+    "dark": 0,
+    "level": 256,
+    "sha256": "ed108f3bf95af730a5c226636ba8df347bfe7d288d13627d905eb7c6f9800861"
+  },
+  {
+    "film": 0,
+    "scale": 1000,
+    "dark": 0,
+    "level": 256,
+    "sha256": "c2a827b8c3e947ac08cfe810baf83fd6c4f183f88f77d6805bdd986a5c8352ee"
+  },
+  {
+    "film": 0,
+    "scale": 100,
+    "dark": 306,
+    "level": 256,
+    "sha256": "990a3d0fca3e8e0da82a47ce0005d4b0fd9ab5dd69ebf6a9c8cbb937cf12206a"
+  },
+  {
+    "film": 0,
+    "scale": 155,
+    "dark": 9,
+    "level": 256,
+    "sha256": "60bd64d60e436e7b334a0629078e059d7dba19f4e5c6cac85f83a3f2479cc999"
+  },
+  {
+    "film": 0,
+    "scale": 402,
+    "dark": 142,
+    "level": 256,
+    "sha256": "80c30049bbef6a18fdb70cc80afc17190c045dc5fc89ea3ee3a5ab76596a64dd"
+  },
+  {
+    "film": 0,
+    "scale": 322,
+    "dark": 114,
+    "level": 256,
+    "sha256": "80ca80763af590b6afbfd49b823db7130bd5a461c702abd522f7b2e4323f5ee4"
+  },
+  {
+    "film": 0,
+    "scale": 802,
+    "dark": 241,
+    "level": 256,
+    "sha256": "030c5c4cf5d27b68fc2c25d751cd8c2423a900d4315d104cb46376d449a6adda"
+  },
+  {
+    "film": 0,
+    "scale": 769,
+    "dark": 27,
+    "level": 256,
+    "sha256": "b82ef02b38afa7fa5e6162746f04f1c3eb5cf4892ce9f47a25f7b4c2d0b1fe63"
+  },
+  {
+    "film": 0,
+    "scale": 559,
+    "dark": 267,
+    "level": 256,
+    "sha256": "1b59149415be8110055fa98d68adfeb2ea018184ad4e2dd565f317f00a373882"
+  },
+  {
+    "film": 0,
+    "scale": 463,
+    "dark": 20,
+    "level": 256,
+    "sha256": "9ca394f590a3a93329d2ac0d121d3ca69c857b37c3e38b4e3464895fc4637e18"
+  },
+  {
+    "film": 0,
+    "scale": 406,
+    "dark": 223,
+    "level": 256,
+    "sha256": "76a6d3a2624042c3979e49a9560a2452a18f7c9a97cf6d24e3f87eb49ca13a37"
+  },
+  {
+    "film": 0,
+    "scale": 381,
+    "dark": 127,
+    "level": 256,
+    "sha256": "e6ef4e97a97e6116b7a4aecaca95f1e3a1ccd23bfae6cf3ce699d322d463e9be"
+  },
+  {
+    "film": 0,
+    "scale": 488,
+    "dark": 78,
+    "level": 256,
+    "sha256": "4caa6724ca16b830c159898c9162ba22441c0b04cef8db5df14020c72595f15b"
+  },
+  {
+    "film": 0,
+    "scale": 863,
+    "dark": 198,
+    "level": 256,
+    "sha256": "2478daa86654c7b1c6d313b748d47190a5b517a55139220faf280389f62cab08"
+  },
+  {
+    "film": 0,
+    "scale": 438,
+    "dark": 276,
+    "level": 256,
+    "sha256": "64e5919a0133d15e1f055d0065706cb64304c15e2913b2c427a56031c592fdea"
+  },
+  {
+    "film": 0,
+    "scale": 375,
+    "dark": 161,
+    "level": 256,
+    "sha256": "d2d308f1e10f4b6f0e33dec7bebe856189f447c1e69b93b99f091bebc858b510"
+  },
+  {
+    "film": 0,
+    "scale": 778,
+    "dark": 174,
+    "level": 256,
+    "sha256": "0806e19419fff26c07a54e081611d870f9dd0d533ee5abd408d56b10d3264f9e"
+  },
+  {
+    "film": 0,
+    "scale": 969,
+    "dark": 82,
+    "level": 256,
+    "sha256": "62c633ba19755070ba6f455b50db2a2ced7d07d317b1d8ea761c8b4b4622dd5c"
+  },
+  {
+    "film": 0,
+    "scale": 832,
+    "dark": 271,
+    "level": 256,
+    "sha256": "236670c8486c5c179fc27ea803a77ea4c74c22c303710d6d3177c4bd5756b8f4"
+  },
+  {
+    "film": 0,
+    "scale": 952,
+    "dark": 219,
+    "level": 256,
+    "sha256": "611cf3e00f587f97c9c1311f499913ec773ca118ed93ebc780f85031dea418f5"
+  },
+  {
+    "film": 0,
+    "scale": 146,
+    "dark": 245,
+    "level": 256,
+    "sha256": "76117ba53db40f0f51b8d31c55bdc8fbe34e2729de0e9faa33ccde9a1aa65b3c"
+  },
+  {
+    "film": 0,
+    "scale": 108,
+    "dark": 130,
+    "level": 256,
+    "sha256": "df5d74c57455528ec3e0a33c4e87637abeb9cf7668e1c7e7d60503d32803d50c"
+  },
+  {
+    "film": 0,
+    "scale": 258,
+    "dark": 71,
+    "level": 256,
+    "sha256": "9e0a3332259be929122be5675d5532c7cd8d0da82cb033fd29c16dae8df902c4"
+  },
+  {
+    "film": 0,
+    "scale": 143,
+    "dark": 252,
+    "level": 256,
+    "sha256": "db438b818171bf56497f4f375632937d1cd44f4a8844cc7f02906209a46b1529"
+  },
+  {
+    "film": 0,
+    "scale": 227,
+    "dark": 121,
+    "level": 256,
+    "sha256": "ebcf1cb457f5e0cfa10e66012d1c077b650445ab2af49baccde99941ff3e2101"
+  },
+  {
+    "film": 0,
+    "scale": 983,
+    "dark": 137,
+    "level": 256,
+    "sha256": "511db2803650b2a0952e741021796e5df1323cd4fdd4de6c769f3f9dbb49813d"
+  },
+  {
+    "film": 0,
+    "scale": 26,
+    "dark": 40,
+    "level": 256,
+    "sha256": "5e7e5150c1ab2a3e72d3ac13737129de8a7114360e29f9a37894be2092e63169"
+  },
+  {
+    "film": 0,
+    "scale": 542,
+    "dark": 76,
+    "level": 256,
+    "sha256": "34592d1ae1561044a6cba94f37b2e769430d4364bbaa79ade550ee14aee2b38c"
+  },
+  {
+    "film": 0,
+    "scale": 636,
+    "dark": 135,
+    "level": 256,
+    "sha256": "9a839055038ddd265904ea69f39f8524fb4a6cebe1c6aa916b9b005a42e17ca3"
+  },
+  {
+    "film": 0,
+    "scale": 111,
+    "dark": 277,
+    "level": 256,
+    "sha256": "7c88e92c4092b8dfb8bdfd39d9ad4a106ddbe15d6ad5f5d4b98912a0ba1301bf"
+  },
+  {
+    "film": 0,
+    "scale": 151,
+    "dark": 118,
+    "level": 256,
+    "sha256": "39af3909e48e66848fafbc5a78dac887302cc345841a9ae4ccc4cd2df0376581"
+  },
+  {
+    "film": 0,
+    "scale": 355,
+    "dark": 65,
+    "level": 256,
+    "sha256": "72987be7c1101ef06b6491e8f41d3ba458ce80209d6da015d985a7f179e4b602"
+  },
+  {
+    "film": 0,
+    "scale": 835,
+    "dark": 86,
+    "level": 256,
+    "sha256": "f34f04719575b9c844cf8bda137bec9635976e934e7dcc95cf38150642352b00"
+  },
+  {
+    "film": 0,
+    "scale": 905,
+    "dark": 280,
+    "level": 256,
+    "sha256": "0f89d7dab3dd18b03b0a957eb88378335b22dd025d92260c70d6af711c0feb89"
+  },
+  {
+    "film": 0,
+    "scale": 662,
+    "dark": 161,
+    "level": 256,
+    "sha256": "8f4797ce7f1fcc33a1e134b266c23ef84e06f40423092c48aa9c53c71c95f118"
+  },
+  {
+    "film": 0,
+    "scale": 37,
+    "dark": 209,
+    "level": 256,
+    "sha256": "15d90269fff06a72a9406c0630261446932b4f4972b969ebbb6ef9a90629ba20"
+  },
+  {
+    "film": 0,
+    "scale": 431,
+    "dark": 197,
+    "level": 256,
+    "sha256": "9f3dc39f3dcec7457050c2f0dbdb1d8d340c685e9aff5795ef52ebb96229e546"
+  },
+  {
+    "film": 2,
+    "scale": 100,
+    "dark": 0,
+    "level": 256,
+    "sha256": "59e08cfe6b7029227cda39f6f57d269b873baabf94a26d26aca8b6e04edc0814"
+  },
+  {
+    "film": 2,
+    "scale": 100,
+    "dark": 120,
+    "level": 256,
+    "sha256": "3465441b29ceaa678eec99cd5dcebffd3a23739d4b314b285505d448fa87bb14"
+  },
+  {
+    "film": 2,
+    "scale": 100,
+    "dark": 127,
+    "level": 256,
+    "sha256": "d233ac76d073e5436e05ca7d7a6dd2c94ba6c1eaa36ffbee3414073e744e7837"
+  },
+  {
+    "film": 2,
+    "scale": 100,
+    "dark": 128,
+    "level": 256,
+    "sha256": "cbc4e2f2d257c67460a25836a8c0bfe987c9721dc01b4587fc8ee2e85d81f8d9"
+  },
+  {
+    "film": 2,
+    "scale": 100,
+    "dark": 1023,
+    "level": 256,
+    "sha256": "b6bbe36bf5e8ffd0ff479244a9c26f5cd9bf3af5e6c11d51de4a5b414704f7c7"
+  },
+  {
+    "film": 2,
+    "scale": 50,
+    "dark": 127,
+    "level": 256,
+    "sha256": "6755fa5968befaab01ba3aab8ecd8faabcb1cffc340361b567ed837ccb188a1a"
+  },
+  {
+    "film": 2,
+    "scale": 200,
+    "dark": 127,
+    "level": 256,
+    "sha256": "086bbf0946eeb77f4c2c7e1d3b8b313d5f350df55d642e78fbdef994cfacae5e"
+  },
+  {
+    "film": 2,
+    "scale": 1,
+    "dark": 0,
+    "level": 256,
+    "sha256": "60b99d626a29c8ce04a749d581ace6a3356766d6756a39429a5bdbeae6988a11"
+  },
+  {
+    "film": 2,
+    "scale": 1000,
+    "dark": 1023,
+    "level": 256,
+    "sha256": "adc5d327bc8c3acd8733e3a56f0d0f4a25fe6a858c352ceca46423b291cc688d"
+  },
+  {
+    "film": 2,
+    "scale": 66,
+    "dark": 164,
+    "level": 256,
+    "sha256": "1ce94025784a464ffe8d0f1ac84844213df078b5af27ac55dfbbc4b747552717"
+  },
+  {
+    "film": 2,
+    "scale": 508,
+    "dark": 32,
+    "level": 256,
+    "sha256": "d23499ec09d40e191ddc821b8b08cfb6a0bbc4a91a3a13a479f9feaf7c6b9677"
+  },
+  {
+    "film": 2,
+    "scale": 47,
+    "dark": 544,
+    "level": 256,
+    "sha256": "1f96c3937052b4c2aa4dfeb6bba6709455b59365a8c07fde72f7ab70a62aa6ba"
+  },
+  {
+    "film": 2,
+    "scale": 860,
+    "dark": 298,
+    "level": 256,
+    "sha256": "b1212da6c752e5767ede3be91fca651faba79be69fe2a4dab0f61f7cd1354b00"
+  },
+  {
+    "film": 2,
+    "scale": 767,
+    "dark": 231,
+    "level": 256,
+    "sha256": "76f3811806a6966da522156c1fb703d01213e11d483a27142abba77ba5a8e273"
+  },
+  {
+    "film": 2,
+    "scale": 643,
+    "dark": 944,
+    "level": 256,
+    "sha256": "a6b5525fe039411ef9a4a1fdec450f604f9dee3070f869d561ad78dab9a0a7d9"
+  },
+  {
+    "film": 2,
+    "scale": 984,
+    "dark": 962,
+    "level": 256,
+    "sha256": "ea63793d58c61b89276d42a2b63a87a36a4f2282ee0cc7d186eb8a506ee61171"
+  },
+  {
+    "film": 2,
+    "scale": 85,
+    "dark": 290,
+    "level": 256,
+    "sha256": "3dd3226209e55ae75be5300142945430b341fc5430202fddfd569190baa584a1"
+  },
+  {
+    "film": 2,
+    "scale": 764,
+    "dark": 310,
+    "level": 256,
+    "sha256": "c0a0b5ea9f446f38593f3c32fbcbe068102ab37c515ab07a0b611027c662831e"
+  },
+  {
+    "film": 2,
+    "scale": 66,
+    "dark": 370,
+    "level": 256,
+    "sha256": "e8964461f38dfad393d25fdc33ed62c383d1bbeeac6a22479dc5a7d163f809a0"
+  },
+  {
+    "film": 2,
+    "scale": 339,
+    "dark": 472,
+    "level": 256,
+    "sha256": "fa1229a818083126853ce892c63b91dd21a721823f59f45a2b898aed7595afbe"
+  },
+  {
+    "film": 2,
+    "scale": 662,
+    "dark": 155,
+    "level": 256,
+    "sha256": "c2d9d7fe7a462180bf5e0d5e5113504b930bbd31d156e065bd267d64d4c0bfd9"
+  },
+  {
+    "film": 2,
+    "scale": 617,
+    "dark": 961,
+    "level": 256,
+    "sha256": "4ef59d9da92ae3d1bea43c59723c2441b86189aea9b234176e04ed08ab6fd543"
+  },
+  {
+    "film": 2,
+    "scale": 652,
+    "dark": 300,
+    "level": 256,
+    "sha256": "0d7d588bf4cfe3079f26f78d4c459c842f5a76de53d89aaf2faf49d924328716"
+  },
+  {
+    "film": 2,
+    "scale": 82,
+    "dark": 365,
+    "level": 256,
+    "sha256": "66a27467c483e5da8eb51f907637db8f563649c92d79d38bb8e1fe4e7bd8257b"
+  },
+  {
+    "film": 2,
+    "scale": 241,
+    "dark": 441,
+    "level": 256,
+    "sha256": "a6a40070d103a93621486d0e5d3640edefb335d497ee40e12e1c48d3d747e172"
+  },
+  {
+    "film": 2,
+    "scale": 951,
+    "dark": 965,
+    "level": 256,
+    "sha256": "3d84e6f15876a11d05f1f3fb39cecef4547672dfe0cf7e93c40f9a860442dfd7"
+  },
+  {
+    "film": 2,
+    "scale": 368,
+    "dark": 707,
+    "level": 256,
+    "sha256": "51053054cf5b2c19f9d63d9173edc76ea7ab817ac8f91624988b2baf6cfbb688"
+  },
+  {
+    "film": 2,
+    "scale": 776,
+    "dark": 348,
+    "level": 256,
+    "sha256": "cccb21f11068bef5b196ca48b6ad179efddcb8cf23c0e379870b616c3b625bb5"
+  },
+  {
+    "film": 2,
+    "scale": 974,
+    "dark": 373,
+    "level": 256,
+    "sha256": "995f99564840e39e3d73515d60470fe7695afa2712434081d39e8f49b5411399"
+  },
+  {
+    "film": 2,
+    "scale": 913,
+    "dark": 908,
+    "level": 256,
+    "sha256": "12768bc0415b7f094f0462b725c6893caf6957b0cfa7360c2af9b3587f23a47c"
+  },
+  {
+    "film": 2,
+    "scale": 702,
+    "dark": 444,
+    "level": 256,
+    "sha256": "cf33c485af353e4909ba091fa40a484a647c58b8c09984f524b418c01eb47e4f"
+  },
+  {
+    "film": 2,
+    "scale": 70,
+    "dark": 43,
+    "level": 256,
+    "sha256": "83be3f3a8ca99b4d1e2ac1346581628302f0124ec9011d5fb1365dfc1e86e237"
+  },
+  {
+    "film": 2,
+    "scale": 614,
+    "dark": 507,
+    "level": 256,
+    "sha256": "f014f1b74142afeb8c9f55cfebc22a5191589a3af895c268f2613f7fb5aa416e"
+  },
+  {
+    "film": 2,
+    "scale": 874,
+    "dark": 152,
+    "level": 256,
+    "sha256": "99e73042cfce4de575eba80bd567371d15d70f4db8ccdacd683275d6a48861ad"
+  },
+  {
+    "film": 2,
+    "scale": 300,
+    "dark": 77,
+    "level": 256,
+    "sha256": "6e4ea286d39c54b0c09f8a2647262ade1da7702f549113afcd9db791eefac81d"
+  },
+  {
+    "film": 2,
+    "scale": 666,
+    "dark": 293,
+    "level": 256,
+    "sha256": "74db3948ff02e5f3198b95fb92f8ae1627dfc4b4c62c329ee8ac0a1e5dd7cf25"
+  },
+  {
+    "film": 2,
+    "scale": 504,
+    "dark": 759,
+    "level": 256,
+    "sha256": "e97b4475ef2af588a3ee42943c49411cee74622f636ed7aa7985649506df68c1"
+  },
+  {
+    "film": 2,
+    "scale": 710,
+    "dark": 232,
+    "level": 256,
+    "sha256": "8efcfd8908ae5e2d64d6697f4ac4c05fdc1ab98acc62634524ef901db8fe7301"
+  },
+  {
+    "film": 2,
+    "scale": 452,
+    "dark": 711,
+    "level": 256,
+    "sha256": "770ba1f34c3245d4901729dc953e6a50018926d3f209279e1369315bda67efd0"
+  },
+  {
+    "film": 2,
+    "scale": 209,
+    "dark": 532,
+    "level": 256,
+    "sha256": "1871b5e7fbfcf35c915d143444ff738ca00186c656636f49369dd9af99348045"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 40,
+    "sha256": "e0bf5ce2af55b5d53f12e7dae892f1bc49247ff9a9e924596e9d919343436885"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 40,
+    "sha256": "ab7e4a7f88fe4d7a334cea92bc406dfdf922ed7d6e3750de94a8ecf688da5ba5"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 40,
+    "sha256": "6e235b65a0b1668abbd385f2a79499508475d33dd67e9cfc3d9977cea713d560"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 40,
+    "sha256": "f200c91542a4d30fb57e76fd29881fd36c00501ad97bff5dde026620a2c2c830"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 40,
+    "sha256": "05b6a16867a5eba2060eb3e4af486d3eee0b73034b4dab424adcf5df0f516c0c"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 40,
+    "sha256": "dfebd28acca327f74cddbc7e4dd2cf8bdaa13c0acc4a77d2023948a057d5d387"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 186,
+    "sha256": "be1dcd36be105b2ccdc6c2a560085d8939f7968eb28532ca653d31e7ee5dccda"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 186,
+    "sha256": "1dadc609572f3caa03d19a781b06dea8af7d2a88d61822dc5084f501a1a94c75"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 186,
+    "sha256": "2e42ff09c84c9847b405b07bebdd9e4262cbaaf8eacf7337b0547c5b2ca263cf"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 186,
+    "sha256": "fe5d127925f109cf38a79af85f6ffec44d2f2f16f62be5d8c8698b8bba9652e0"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 186,
+    "sha256": "20951ba8fb06da923eaf04c2d2753b304b982bf15259d8cac59ba0dba3eeb4d5"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 186,
+    "sha256": "0231654a83154f5072ffddc6fc22a5cdb40c0ce61d1fb1f8e804d50335995659"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 196,
+    "sha256": "04b53d51dd06fcd8ee9f167e655932847c1593c801e8887b19796d1a71417c9b"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 196,
+    "sha256": "ef3b931c102c8df660fc5cc4d60e005fd1ad7f5e7c6cf04f3b1ca5198a23e1dd"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 196,
+    "sha256": "42a11179d077fd6a8086af7b7c3b994d97657c305fd9c47f04be95160404659e"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 196,
+    "sha256": "dd76839c28c339e9002b47070e597c289e100f77e452fb1d620a02cfc1da8c20"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 196,
+    "sha256": "9681c11e97f1f99ecc9be773d870bd3d6b8046385a07701c0a86e2a1082e84ed"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 196,
+    "sha256": "783c34d7aae7934a288a79aacac83e0f266b477447d2321aac359ec67b1538f3"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 215,
+    "sha256": "5ba83cd03d5b5693589a04dc192208d2fcafa18d2e08329363cfc678add9baea"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 215,
+    "sha256": "899bee608b7cc31e9e7e77f05ccf4dab9e284a776df2f6b48e3edf9bb109bc38"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 215,
+    "sha256": "775b51ee1f874efaa00818eea275ce10c1e221091d717739fc593e3578fde31d"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 215,
+    "sha256": "75620b83a143f37ee0dac0f0a93edf73a55b16f54aa9927fd7d1ffa2e12624bd"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 215,
+    "sha256": "7a76e906bda93857b79654e25a541bc14bc5aab12decfd1a633aeec0e5a84d8a"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 215,
+    "sha256": "db11132effa076c1a2c3e7870840369ebd12a73240394302765bd1ceca13a81f"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 256,
+    "sha256": "4bd3605aae486cfb7926ca1f247f4520e183424504a39971999ce6c380f17a8f"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 256,
+    "sha256": "794d6513b45794d8108ca270056c42a729ae215155a01c2f04992c6bf78d78ba"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 256,
+    "sha256": "9659d04877b32d3f80a0cbebb0016f81a3763891cfc9763ccf813d1d63dc6f84"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 256,
+    "sha256": "093698445a2ee5ccb45fb2c0a01dd41aa0328e6b429556b6cd43ec37c374a34b"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 256,
+    "sha256": "858107288b4279a7706aaedc242ade436583c92e51f542ee2b016ce6e502ddb9"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 256,
+    "sha256": "3fe1177174ff7c646352ad856e8fae4647fa012eb4695c66a1f68328ed08d87a"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 0,
+    "level": 600,
+    "sha256": "823329bfd933a56f311148e5897f171d26c6911cab94a329b0f90b8629d20237"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 0,
+    "level": 600,
+    "sha256": "9ed265ddd887cb76ce17a12779cc342f8ef3475e34625d68328fa30c7af09d16"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 0,
+    "level": 600,
+    "sha256": "eb606b8286ac80efc03390a64ae1689fd97a319995cb60984bd74b11aaa7dfef"
+  },
+  {
+    "film": 1,
+    "scale": 70,
+    "dark": 127,
+    "level": 600,
+    "sha256": "91d562e1a97034844655f51218fc2ed71c9816118917fd5e2b13d8885fda0016"
+  },
+  {
+    "film": 1,
+    "scale": 100,
+    "dark": 127,
+    "level": 600,
+    "sha256": "917fad9509aede486b2d828841db947356bf44051f2c296bdf1ee03ee07b6272"
+  },
+  {
+    "film": 1,
+    "scale": 180,
+    "dark": 127,
+    "level": 600,
+    "sha256": "1fa9041b3850b9e74193a66d4d50fe8cb69a04bfdb52d01576169db715520d3b"
+  }
+]

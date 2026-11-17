@@ -1,0 +1,428 @@
+[
+  {
+    "film": 1,
+    "kind": "synthetic-0",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      59,
+      103,
+      162
+    ],
+    "levels": [
+      285,
+      307,
+      345
+    ],
+    "classifier": 0,
+    "counts": [
+      185,
+      169,
+      208,
+      152,
+      188,
+      181,
+      261
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "synthetic-1",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      60,
+      104,
+      165
+    ],
+    "levels": [
+      291,
+      320,
+      364
+    ],
+    "classifier": 0,
+    "counts": [
+      190,
+      175,
+      211,
+      141,
+      194,
+      173,
+      260
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "synthetic-2",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      61,
+      106,
+      166
+    ],
+    "levels": [
+      304,
+      327,
+      367
+    ],
+    "classifier": 0,
+    "counts": [
+      199,
+      177,
+      199,
+      150,
+      198,
+      180,
+      241
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-min-0",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      183,
+      153,
+      153
+    ],
+    "classifier": 1,
+    "counts": [
+      4,
+      1340,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-max-0",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      163,
+      149,
+      141
+    ],
+    "classifier": 4,
+    "counts": [
+      4,
+      0,
+      0,
+      0,
+      1340,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-min-1",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      175,
+      146,
+      146
+    ],
+    "classifier": 2,
+    "counts": [
+      4,
+      0,
+      1340,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-max-1",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      182,
+      152,
+      152
+    ],
+    "classifier": 5,
+    "counts": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      1340,
+      0
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-min-2",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      167,
+      152,
+      144
+    ],
+    "classifier": 3,
+    "counts": [
+      4,
+      0,
+      0,
+      1340,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 1,
+    "kind": "classifier-max-2",
+    "base": [
+      55,
+      90,
+      136
+    ],
+    "exposures": [
+      58,
+      98,
+      153
+    ],
+    "levels": [
+      178,
+      149,
+      149
+    ],
+    "classifier": 6,
+    "counts": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1340
+    ]
+  },
+  {
+    "film": 2,
+    "kind": "flat-140",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      1378,
+      1378,
+      1378
+    ],
+    "levels": [
+      827,
+      827,
+      827
+    ]
+  },
+  {
+    "film": 2,
+    "kind": "flat-300",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      92,
+      92,
+      92
+    ],
+    "levels": [
+      808,
+      808,
+      808
+    ]
+  },
+  {
+    "film": 2,
+    "kind": "flat-600",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      33,
+      33,
+      33
+    ],
+    "levels": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 2,
+    "kind": "flat-900",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      20,
+      20,
+      20
+    ],
+    "levels": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "film": 2,
+    "kind": "spatial-pattern",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      26,
+      26,
+      26
+    ],
+    "levels": [
+      347,
+      347,
+      347
+    ]
+  },
+  {
+    "film": 0,
+    "kind": "synthetic-flat-140",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      1477,
+      820,
+      1026
+    ]
+  },
+  {
+    "film": 0,
+    "kind": "synthetic-flat-300",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      156,
+      86,
+      108
+    ]
+  },
+  {
+    "film": 0,
+    "kind": "synthetic-flat-600",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      58,
+      32,
+      40
+    ]
+  },
+  {
+    "film": 0,
+    "kind": "synthetic-flat-900",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      36,
+      20,
+      25
+    ]
+  },
+  {
+    "film": 0,
+    "kind": "synthetic-pattern",
+    "base": [
+      36,
+      20,
+      25
+    ],
+    "exposures": [
+      66,
+      37,
+      46
+    ]
+  }
+]

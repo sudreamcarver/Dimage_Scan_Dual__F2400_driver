@@ -1,0 +1,95 @@
+{
+  "channel_quality": [
+    {
+      "channel": 0,
+      "dark_sum_range": [
+        7664,
+        7755
+      ],
+      "white_sum_range": [
+        36666,
+        43026
+      ],
+      "shading_range": [
+        209,
+        255
+      ],
+      "shading_floor_columns": 0
+    },
+    {
+      "channel": 1,
+      "dark_sum_range": [
+        8162,
+        8271
+      ],
+      "white_sum_range": [
+        42437,
+        48747
+      ],
+      "shading_range": [
+        216,
+        255
+      ],
+      "shading_floor_columns": 0
+    },
+    {
+      "channel": 2,
+      "dark_sum_range": [
+        8137,
+        8238
+      ],
+      "white_sum_range": [
+        40216,
+        45607
+      ],
+      "shading_range": [
+        219,
+        255
+      ],
+      "shading_floor_columns": 0
+    }
+  ],
+  "schema": 1,
+  "device": "Minolta #2882 1.10",
+  "scope": "35mm warm sensor refresh; existing offsets 20/17/63; not full cold initialization",
+  "created_utc": "2026-11-12T06:07:15.386649+00:00",
+  "calibration_exposures": [
+    22,
+    14,
+    16
+  ],
+  "positive_exposures": [
+    36,
+    20,
+    24
+  ],
+  "negative_exposures": [
+    55,
+    90,
+    136
+  ],
+  "dark_means": [
+    119,
+    127,
+    127
+  ],
+  "reads_per_field": 64,
+  "all_192_reads_good": true,
+  "wire_sums_match": true,
+  "final_ready": true,
+  "source_log_sha256": "c487ae40ec856ddc8c4990879b7775caa4c0c962aa3ce2896c368f67860c4aaa",
+  "files": {
+    "shading.bin": {
+      "bytes": 7008,
+      "sha256": "7563b57af1e2c592cef423ae4bafda0f66fbd294f5b893b87d7a3b7f6425545c"
+    },
+    "dark.bin": {
+      "bytes": 14016,
+      "sha256": "93fb544826e53b90724196b0ba101ca1379f154960f35b282969510c4d077e9b"
+    },
+    "block-table.bin": {
+      "bytes": 96,
+      "sha256": "14fc5f9c7199ddd127575c259313b06334fe2d139b2cb8da17111ec7b3652eb2"
+    }
+  }
+}

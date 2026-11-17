@@ -1,0 +1,233 @@
+[
+  {
+    "requested": [
+      113,
+      152,
+      339
+    ],
+    "original": {
+      "exposure": 113,
+      "gains": [
+        14,
+        19,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        123
+      ]
+    },
+    "linux": {
+      "exposure": 113,
+      "gains": [
+        14,
+        19,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        123
+      ]
+    }
+  },
+  {
+    "requested": [
+      55,
+      90,
+      136
+    ],
+    "original": {
+      "exposure": 55,
+      "gains": [
+        14,
+        23,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        101
+      ]
+    },
+    "linux": {
+      "exposure": 55,
+      "gains": [
+        14,
+        23,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        101
+      ]
+    }
+  },
+  {
+    "requested": [
+      136,
+      205,
+      400
+    ],
+    "original": {
+      "exposure": 136,
+      "gains": [
+        14,
+        22,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        120
+      ]
+    },
+    "linux": {
+      "exposure": 136,
+      "gains": [
+        14,
+        22,
+        31
+      ],
+      "percentages": [
+        100,
+        100,
+        120
+      ]
+    }
+  },
+  {
+    "requested": [
+      20,
+      20,
+      20
+    ],
+    "original": {
+      "exposure": 20,
+      "gains": [
+        14,
+        14,
+        14
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    },
+    "linux": {
+      "exposure": 20,
+      "gains": [
+        14,
+        14,
+        14
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    }
+  },
+  {
+    "requested": [
+      64,
+      64,
+      100
+    ],
+    "original": {
+      "exposure": 64,
+      "gains": [
+        14,
+        14,
+        22
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    },
+    "linux": {
+      "exposure": 64,
+      "gains": [
+        14,
+        14,
+        22
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    }
+  },
+  {
+    "requested": [
+      120,
+      30,
+      30
+    ],
+    "original": {
+      "exposure": 30,
+      "gains": [
+        31,
+        14,
+        14
+      ],
+      "percentages": [
+        164,
+        100,
+        100
+      ]
+    },
+    "linux": {
+      "exposure": 30,
+      "gains": [
+        31,
+        14,
+        14
+      ],
+      "percentages": [
+        164,
+        100,
+        100
+      ]
+    }
+  },
+  {
+    "requested": [
+      100,
+      50,
+      100
+    ],
+    "original": {
+      "exposure": 50,
+      "gains": [
+        27,
+        14,
+        27
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    },
+    "linux": {
+      "exposure": 50,
+      "gains": [
+        27,
+        14,
+        27
+      ],
+      "percentages": [
+        100,
+        100,
+        100
+      ]
+    }
+  }
+]

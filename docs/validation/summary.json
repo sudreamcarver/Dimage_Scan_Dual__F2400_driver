@@ -1,0 +1,61 @@
+{
+  "project": "f2400-driver",
+  "version": "0.2.0",
+  "acquisition_language": "C11",
+  "processing_language": "C11",
+  "ui_language": "Python/Tk (display, dialogs and task supervision only)",
+  "core_requires_python": false,
+  "tests_passed": 15,
+  "original_lut_cases": 116,
+  "original_lut_entries": 475136,
+  "original_ae_cases": 19,
+  "original_normalization_cases": 7,
+  "original_error_cases": 4076,
+  "initialization_recorded_commands": 4210,
+  "complete_virtual_film_modes": 5,
+  "recorded_full_frame_comparison": [
+    {
+      "case": "positive",
+      "preview_differences": 0,
+      "rgb16_differences": 0,
+      "samples": 1534752,
+      "native": {
+        "width": 876,
+        "height": 584,
+        "channels": 3,
+        "rgb16_sha256": "41f6712e6a7a9037438174c344b93557d2ddf1917f4281aa5fd4a879347aa2db"
+      }
+    },
+    {
+      "case": "negative",
+      "preview_differences": 0,
+      "rgb16_differences": 0,
+      "samples": 24556032,
+      "native": {
+        "width": 3504,
+        "height": 2336,
+        "channels": 3,
+        "rgb16_sha256": "b6239c90a2781009edee8705287bf0b2ac3b8d17bb029206102c46f2aecf0561"
+      }
+    },
+    {
+      "case": "bw",
+      "preview_differences": 0,
+      "rgb16_differences": 0,
+      "samples": 8185344,
+      "native": {
+        "width": 3504,
+        "height": 2336,
+        "channels": 1,
+        "rgb16_sha256": "c50d24a2ea152715288984ad2efa32e57ed0dd3b4fca5a974afd0497158de7dd"
+      }
+    }
+  ],
+  "live_read_only_status_passed": true,
+  "new_native_full_hardware_scan_retested": false,
+  "independent_extraction_build_test_install_ui_smoke": true,
+  "source_archive": "f2400-driver-source-20261112.tar.gz",
+  "archive_sha256": "d8b9a3390acf5632787f70ca2672b2e1ff768cf7560732d591ac73ecd8652e4e",
+  "archive_bytes": 6082873,
+  "source_archive_removed_during_cleanup": true
+}

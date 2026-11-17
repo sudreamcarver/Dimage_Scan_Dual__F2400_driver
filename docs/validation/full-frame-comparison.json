@@ -1,0 +1,38 @@
+[
+  {
+    "case": "positive",
+    "preview_differences": 0,
+    "rgb16_differences": 0,
+    "samples": 1534752,
+    "native": {
+      "width": 876,
+      "height": 584,
+      "channels": 3,
+      "rgb16_sha256": "41f6712e6a7a9037438174c344b93557d2ddf1917f4281aa5fd4a879347aa2db"
+    }
+  },
+  {
+    "case": "negative",
+    "preview_differences": 0,
+    "rgb16_differences": 0,
+    "samples": 24556032,
+    "native": {
+      "width": 3504,
+      "height": 2336,
+      "channels": 3,
+      "rgb16_sha256": "b6239c90a2781009edee8705287bf0b2ac3b8d17bb029206102c46f2aecf0561"
+    }
+  },
+  {
+    "case": "bw",
+    "preview_differences": 0,
+    "rgb16_differences": 0,
+    "samples": 8185344,
+    "native": {
+      "width": 3504,
+      "height": 2336,
+      "channels": 1,
+      "rgb16_sha256": "c50d24a2ea152715288984ad2efa32e57ed0dd3b4fca5a974afd0497158de7dd"
+    }
+  }
+]

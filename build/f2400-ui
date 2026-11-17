@@ -1,0 +1,6 @@
+#!/bin/sh
+set -eu
+prefix=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+export F2400_CLI="$prefix/bin/f2400"
+export F2400_LIBRARY="$prefix/lib/libf2400.so"
+exec python3 "$prefix/share/f2400/ui/desktop.py" "$@"

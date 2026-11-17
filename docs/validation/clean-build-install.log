@@ -1,0 +1,124 @@
+
+COMMAND ["cmake", "-S", "/tmp/f2400 independent source ps_6jyfq/f2400-driver", "-B", "/tmp/f2400 independent source ps_6jyfq/f2400-driver/build", "-G", "Ninja", "-DCMAKE_BUILD_TYPE=Release", "-DF2400_TEST_UI=ON", "-DCMAKE_INSTALL_PREFIX=/tmp/f2400 independent source ps_6jyfq/installed"]
+-- The C compiler identification is GNU 16.2.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Found PkgConfig: /usr/bin/pkg-config (found version "3.0.10")
+-- Checking for module 'libpng'
+--   Found libpng, version 1.6.59
+-- Checking for module 'libtiff-4'
+--   Found libtiff-4, version 4.7.2
+-- Checking for module 'json-c'
+--   Found json-c, version 0.19
+-- Found OpenSSL: /usr/lib/libcrypto.so (found version "3.6.5") found components: Crypto
+-- Found ZLIB: /usr/lib/libz.so (found version "1.3.2")
+-- Found Python3: /usr/bin/python3.14 (found version "3.14.9") found components: Interpreter
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /tmp/f2400 independent source ps_6jyfq/f2400-driver/build
+
+COMMAND ["cmake", "--build", "/tmp/f2400 independent source ps_6jyfq/f2400-driver/build", "-j", "4"]
+[1/29] Building C object CMakeFiles/f2400_objects.dir/src/device.c.o
+[2/29] Building C object CMakeFiles/f2400_objects.dir/src/util.c.o
+[3/29] Building C object CMakeFiles/f2400_objects.dir/src/transport.c.o
+[4/29] Building C object CMakeFiles/f2400_objects.dir/src/capture.c.o
+[5/29] Building C object CMakeFiles/f2400_objects.dir/src/curves.c.o
+[6/29] Building C object CMakeFiles/f2400_objects.dir/src/exposure.c.o
+[7/29] Building C object CMakeFiles/f2400_objects.dir/src/calibration.c.o
+[8/29] Building C object CMakeFiles/f2400_objects.dir/src/initialization.c.o
+[9/29] Building C object CMakeFiles/f2400_objects.dir/src/image.c.o
+[10/29] Building C object CMakeFiles/f2400_objects.dir/src/audit.c.o
+[11/29] Building C object CMakeFiles/f2400_objects.dir/src/pipeline.c.o
+[12/29] Building C object CMakeFiles/f2400.dir/src/cli.c.o
+[13/29] Linking C shared library libf2400.so.0.2.0
+[14/29] Building C object CMakeFiles/test_calibration_transport.dir/tests/test_calibration_transport.c.o
+[15/29] Building C object CMakeFiles/test_capture.dir/tests/test_capture.c.o
+[16/29] Building C object CMakeFiles/test_errors.dir/tests/test_errors.c.o
+[17/29] Building C object CMakeFiles/test_initialization.dir/tests/test_initialization.c.o
+[18/29] Creating library symlink libf2400.so.0 libf2400.so
+[19/29] Linking C executable f2400
+[20/29] Building C object CMakeFiles/test_device.dir/tests/test_device.c.o
+[21/29] Building C object CMakeFiles/test_core.dir/tests/test_core.c.o
+[22/29] Linking C executable test_capture
+[23/29] Building C object CMakeFiles/test_jobs.dir/tests/test_jobs.c.o
+[24/29] Linking C executable test_calibration_transport
+[25/29] Linking C executable test_device
+[26/29] Linking C executable test_errors
+[27/29] Linking C executable test_core
+[28/29] Linking C executable test_initialization
+[29/29] Linking C executable test_jobs
+
+COMMAND ["ctest", "--test-dir", "/tmp/f2400 independent source ps_6jyfq/f2400-driver/build", "--output-on-failure"]
+Test project /tmp/f2400 independent source ps_6jyfq/f2400-driver/build
+      Start  1: core_original_parity
+ 1/15 Test  #1: core_original_parity .............   Passed    0.34 sec
+      Start  2: capture_faults
+ 2/15 Test  #2: capture_faults ...................   Passed    0.03 sec
+      Start  3: calibration_faults
+ 3/15 Test  #3: calibration_faults ...............   Passed    0.00 sec
+      Start  4: cold_recorded_38
+ 4/15 Test  #4: cold_recorded_38 .................   Passed    0.17 sec
+      Start  5: cold_recorded_39
+ 5/15 Test  #5: cold_recorded_39 .................   Passed    0.17 sec
+      Start  6: cold_failure_10_1
+ 6/15 Test  #6: cold_failure_10_1 ................   Passed    0.00 sec
+      Start  7: cold_failure_1975_1
+ 7/15 Test  #7: cold_failure_1975_1 ..............   Passed    0.13 sec
+      Start  8: cold_failure_10_2
+ 8/15 Test  #8: cold_failure_10_2 ................   Passed    0.00 sec
+      Start  9: cold_failure_1975_2
+ 9/15 Test  #9: cold_failure_1975_2 ..............   Passed    0.13 sec
+      Start 10: cold_failure_10_3
+10/15 Test #10: cold_failure_10_3 ................   Passed    0.00 sec
+      Start 11: cold_failure_1975_3
+11/15 Test #11: cold_failure_1975_3 ..............   Passed    0.13 sec
+      Start 12: scanner_discovery
+12/15 Test #12: scanner_discovery ................   Passed    0.00 sec
+      Start 13: original_error_decoder
+13/15 Test #13: original_error_decoder ...........   Passed    0.00 sec
+      Start 14: native_jobs
+14/15 Test #14: native_jobs ......................   Passed    1.21 sec
+      Start 15: desktop_ui
+15/15 Test #15: desktop_ui .......................   Passed    0.42 sec
+
+100% tests passed out of 15
+
+Total Test time (real) =   2.74 sec
+
+COMMAND ["cmake", "--install", "/tmp/f2400 independent source ps_6jyfq/f2400-driver/build"]
+-- Install configuration: "Release"
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/bin/f2400
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/lib/libf2400.so.0.2.0
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/lib/libf2400.so.0
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/lib/libf2400.so
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/include
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/include/f2400
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/include/f2400/f2400.h
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/f2400/ui
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/f2400/ui/native.py
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/f2400/ui/desktop.py
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/f2400/ui/controller.py
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/f2400/70-f2400.rules
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/README.md
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/BUILD.md
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/ORIGINAL_GAPS.md
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/NOTICE.md
+-- Up-to-date: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/VALIDATION.md
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/share/doc/f2400/ARCHITECTURE.md
+-- Installing: /tmp/f2400 independent source ps_6jyfq/installed/bin/f2400-ui
+
+COMMAND ["/tmp/f2400 independent source ps_6jyfq/installed/bin/f2400", "--help"]
+f2400 status | release
+f2400 scan --output NEW_DIR --calibration PROFILE --film TYPE [--ratio 1|4] [--preview-only --editable-preview]
+f2400 initialize|calibration --output NEW_DIR --holder-removed
+f2400 profile-info --calibration PROFILE
+f2400 process|meter --raw FILE --dark FILE --shading FILE --film TYPE [--base R,G,B] [--levels R,G,B] [--ratio 1|4] [--percentage N] [--output PREFIX]
+f2400 lut --film TYPE --output FILE [--scale 100 --dark-mean 0 --level 256]
+f2400 profile-build --output CAPTURE_DIR
+TYPE: color-positive, color-negative, bw-negative, raw-color, raw-bw
+
+COMMAND ["/tmp/f2400 independent source ps_6jyfq/installed/bin/f2400-ui", "--smoke"]

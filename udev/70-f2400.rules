@@ -1,0 +1,4 @@
+# Grant the active local desktop session access to the supported scanner only.
+# This rule never matches disks or DVD drives. Headless access requires an
+# administrator-managed group/ACL policy; do not grant access to all sg nodes.
+SUBSYSTEM=="scsi_generic", ATTRS{type}=="6", ATTRS{vendor}=="Minolta*", ATTRS{model}=="#2882*", TAG+="uaccess"

@@ -1,0 +1,77 @@
+[
+  {
+    "film": 0,
+    "ratio": 4,
+    "percentage": 150,
+    "levels": [
+      215,
+      196,
+      186
+    ],
+    "width": 876,
+    "height": 584,
+    "channels": 3,
+    "pixels_sha256": "7833a994213659b1f58a77e08432912260c825d41229c04aee65dd437cefcb22",
+    "preview_sha256": "d511538dd6241ce5931fba62bcf9d805d9a454b30c958271c980352c5272fa9f"
+  },
+  {
+    "film": 1,
+    "ratio": 4,
+    "percentage": 150,
+    "levels": [
+      215,
+      196,
+      186
+    ],
+    "width": 876,
+    "height": 584,
+    "channels": 3,
+    "pixels_sha256": "036ad9fb3c4bfa71c2caf8312f29c66e6b00d877f984c736a88c44c8b16c996e",
+    "preview_sha256": "0143d75ac775640e1dc3f976a5723247937621b030b1dcdfe3e3cdcf7e6d2c53"
+  },
+  {
+    "film": 2,
+    "ratio": 4,
+    "percentage": 150,
+    "levels": [
+      215,
+      196,
+      186
+    ],
+    "width": 876,
+    "height": 584,
+    "channels": 1,
+    "pixels_sha256": "d8709896e44760071082a36749af6cca3f4e143d2f5cb233d2cd7798e5f1253f",
+    "preview_sha256": "b4766f4167446595b3ea187620ce155547005306d8acb6fea4d1e6acbc549433"
+  },
+  {
+    "film": 3,
+    "ratio": 4,
+    "percentage": 150,
+    "levels": [
+      215,
+      196,
+      186
+    ],
+    "width": 876,
+    "height": 584,
+    "channels": 3,
+    "pixels_sha256": "091d6ba54c65bab9c44737528e854722a5e4bdfdbb4ef2fe3b4936f928bc5cec",
+    "preview_sha256": "155b12591e4a5074e918ac8ca4d3fcf27bd06c01bd3be537144a7f0a3b01b687"
+  },
+  {
+    "film": 4,
+    "ratio": 4,
+    "percentage": 150,
+    "levels": [
+      215,
+      196,
+      186
+    ],
+    "width": 876,
+    "height": 584,
+    "channels": 1,
+    "pixels_sha256": "2b2bf8f42e22bf9ae2ae27bf646d959cc98368b6e5c011e330895f85dd8f297b",
+    "preview_sha256": "f00dd74ea417053c23d0cba2f3f3663d40791202a7384601d084d76c0540d935"
+  }
+]

@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/test_device.dir/link.d CMakeFiles/test_device.dir/tests/test_device.c.o -o test_device

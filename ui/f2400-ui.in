@@ -1,0 +1,6 @@
+#!/bin/sh
+set -eu
+prefix=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+export F2400_CLI="$prefix/@CMAKE_INSTALL_BINDIR@/f2400"
+export F2400_LIBRARY="$prefix/@CMAKE_INSTALL_LIBDIR@/libf2400.so"
+exec python3 "$prefix/@CMAKE_INSTALL_DATADIR@/f2400/ui/desktop.py" "$@"
